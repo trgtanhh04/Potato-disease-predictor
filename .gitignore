@@ -8,7 +8,7 @@ PlantVillage/Potato___healthy/
 PlantVillage/Potato___Late_blight/
 
 # Models - Large files
-models/
+# models/
 
 # Virtual Environment
 venv/
