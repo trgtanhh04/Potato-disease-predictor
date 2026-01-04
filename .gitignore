@@ -1,2 +1,24 @@
+# Python
 *__pycache__/
 *.pyc
+
+# Dataset - Don't push to GitHub
+PlantVillage/Potato___Early_blight/
+PlantVillage/Potato___healthy/
+PlantVillage/Potato___Late_blight/
+
+# Models - Large files
+models/
+
+# Virtual Environment
+venv/
+env/
+*.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
